@@ -1,6 +1,6 @@
 # SMC2SFC
 
-This is a small utility program which converts SNES ROMs in SMC/SWC formats to SFC by stripping the headers from the files. Input fies which do not contain SMC/SWC headers will simply be copied.
+This is a small utility program which converts SNES ROMs in SMC/SWC formats to SFC by stripping the headers from the files. Input files which do not contain SMC/SWC headers will simply be copied.
 
 ## Building
 
