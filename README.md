@@ -4,7 +4,7 @@ This is a small utility program which converts SNES ROMs in SMC/SWC formats to S
 
 ## Building
 
-	g++ smc2sfc.c -o smc2sfc
+	g++ smc2sfc.cpp -o smc2sfc
 
 ## Usage
 
